@@ -45,3 +45,5 @@ Clone the github repo and install the correct packages using npm i and npm i inq
 
 https://github.com/orngmrmld/EmployeeTracker
 
+https://drive.google.com/file/d/1UIg0CVi82TRQYkvJ_0rSvfMVuK1uBchQ/view?usp=sharing
+
